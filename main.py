@@ -17,7 +17,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import GridSearchCV, cross_val_score
 
 
-# Set the page configuration
+# Set the page configuration Änderung hier!!!!!
 st.set_page_config(
     page_title="My Streamlit App",
     layout="wide",
